@@ -23,5 +23,5 @@ int Root(int a) {
 }
 
 int main() {
-
+	// hier komt de berekening 
 }
